@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MdDocs\Grynwald.MdDocs.csproj" />
+    <ProjectReference Include="..\MdDocs\Grynwald.MdDocs.csproj" PrivateAssets="all" ReferenceOutputAssembly="false" />
   </ItemGroup>
 
 
